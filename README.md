@@ -1,3 +1,9 @@
+Insanely Expensive JPEGs - NFT Showcase Website
+![NFT Website Preview](https://your-repository-url/preview.png)
+
+Description
+A satirical yet stylish website showcasing "Insanely Expensive JPEGs" (also known as NFTs). This project features a clean, modern design with a purple-themed color scheme highlighting exclusive digital collectibles like the Meta-Pigeon Sneaker NFT. The website balances humor and visual appeal while exploring the world of digital ownership and blockchain collectibles.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
@@ -9,3 +15,4 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+<img width="1908" height="959" alt="preview image" src="https://github.com/user-attachments/assets/2dca7b08-79da-4bbf-b2bd-b5093485fa23" />
