@@ -2,7 +2,6 @@
 
 This project is a static landing page for a conceptual NFT website, built entirely with HTML and CSS. It was created as part of a Scrimba course module to practice and demonstrate foundational web development skills, with a strong focus on modern CSS techniques.
 
-![Screenshot of the NFT Site project progress in the course curriculum.]<img width="400" height="724" alt="image" src="https://github.com/user-attachments/assets/81f61fd6-64ec-4726-8010-86c0c6de70d0" />
 
 
 ## 🌟 Features
